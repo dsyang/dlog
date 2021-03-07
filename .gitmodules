@@ -1,0 +1,3 @@
+[submodule "themes/zola-water"]
+	path = themes/zola-water
+	url = git@github.com:dsyang/zola-water.git
