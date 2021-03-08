@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://blog.tamnotes.com"
+base_url = "https://dan.tamnotes.com"
 
 title = "These Are My Notes"
 description = "Stream of conciousness musings from dsyang"
